@@ -8,3 +8,4 @@
 .. toctree::
     
     index
+    api

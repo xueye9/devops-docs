@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'DevOps规划'
+copyright = '2026, 薛冰冰'
+author = '薛冰冰'
 
 release = '0.1'
 version = '0.1.0'
