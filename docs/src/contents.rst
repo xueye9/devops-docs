@@ -8,19 +8,20 @@
 .. toctree::
     
     index
-    api
     pipeline
     codecheck
     teamwork
     testing_service
     quality_redline
     artifactory
-    environment_management
-    credential_management
     project_management
+    visualization_rd
+    environment_management
+    platform_portal
+    credential_management
     config_management
     permission_center
     docs_management
     data_factory
-    visualization_rd
     work_platform
+    log_audit
