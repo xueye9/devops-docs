@@ -11,7 +11,7 @@
 
 :项目主页:
 
-    - 'DevOps plan <https://github.com/xueye9/devops-docs.git>'
+    - `DevOps plan <https://github.com/xueye9/devops-docs>`_
 
 背景
 -----------------
