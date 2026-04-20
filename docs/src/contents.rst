@@ -8,6 +8,7 @@
 .. toctree::
     
     index
+    platform_portal
     build_system
     pipeline
     codecheck
@@ -19,9 +20,8 @@
     project_group_management
     visualization_rd
     environment_management
-    platform_portal
-    credential_management
     config_management
+    credential_management
     permission_center
     docs_management
     data_factory
