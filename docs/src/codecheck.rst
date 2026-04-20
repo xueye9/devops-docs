@@ -1,5 +1,5 @@
-代码检查
-=========
+代码检查 ◔
+============
 
 .. autosummary::
    :toctree: generated

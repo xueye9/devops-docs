@@ -12,10 +12,11 @@
     pipeline
     codecheck
     teamwork
-    testing_service
+    testing_capabilities
     quality_redline
     artifactory
     project_management
+    project_group_management
     visualization_rd
     environment_management
     platform_portal
