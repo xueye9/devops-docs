@@ -8,6 +8,7 @@
 .. toctree::
     
     index
+    build_system
     pipeline
     codecheck
     teamwork
